@@ -1,6 +1,6 @@
 # SnakeGame
 
-## Retro Arcade Style Snakes Game
+### Retro Arcade Style Snakes Game
 
 ![screenshot1](https://user-images.githubusercontent.com/31965265/36637379-d003a72e-19a8-11e8-9678-438728aebc92.PNG)
 
